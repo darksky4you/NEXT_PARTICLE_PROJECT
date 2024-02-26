@@ -22,6 +22,6 @@
 <a href="https://t.me/RedmiN11Pak"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_update-channel.png"  /></a>
 <a href="https://t.me/nextosmerlinx"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_support-group.png"  /></a>
 
-<h3>COMMUNITY</h3>
+<h3>ROM ASSETS</h3>
 
 <a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_installation-steps.png"  /></a>
