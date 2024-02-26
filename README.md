@@ -1,7 +1,8 @@
 <div align="center">
   <img height="200" src="https://github.com/darksky4you/miuiscMerlinx/raw/main/logo.png"  />
 </div>
-<h2 align="center">NEXT OS - MERLINx</h2>
+<h1 align="center">NEXT OS - MERLINx</h1>
+<p>AN ANDROID MOD BASED ON MIUI </p>
 <h3>BUILD CHANGELOG - PARTICLE</h3>
 <pre>
   • Statusbar Icon Change Options (Wifi , Data , battery etc)
