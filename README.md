@@ -1,5 +1,7 @@
-
-  <img align="center" height="200" src="https://github.com/darksky4you/miuiscMerlinx/raw/main/logo.png"  />
+<span align="center">
+  <img  height="200" src="https://github.com/darksky4you/miuiscMerlinx/raw/main/logo.png"  />
+</span>
+  
 
 <h3>BUILD CHANGELOG - PARTICLE</h3>
 <pre>
