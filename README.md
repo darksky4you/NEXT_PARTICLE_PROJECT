@@ -1,5 +1,6 @@
 
 <h6>BUILD CHANGELOG</h6>
+<pre>
   • Statusbar Icon Change Options (Wifi , Data , battery etc)
   • LockScreen Mods (Media Art , clock style , powermenu , charge animations etc)
   • miscellaneous (gphotos Spoofing , fps spoofing , netfix spoofing , servers etc )
