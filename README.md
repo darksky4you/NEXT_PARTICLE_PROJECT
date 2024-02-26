@@ -19,5 +19,5 @@
 
 <h3>COMMUNITY</h3>
 
-<a href="https://t.me/RedmiN11Pak"><img  height="40" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_update-channel.png"  /></a>
-<a href="https://t.me/RedmiN11Pak"><img  height="40" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_support-group.png"  /></a>
+<a href="https://t.me/RedmiN11Pak"><img  height="30" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_update-channel.png"  /></a>
+<a href="https://t.me/nextosmerlinx"><img  height="30" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_support-group.png"  /></a>
