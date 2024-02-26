@@ -1,6 +1,6 @@
 <div align="center">
   <img  height="200" src="https://github.com/darksky4you/miuiscMerlinx/raw/main/logo.png"  />
-  <h2>NEXT OS</h2>
+  <p>AN ANDROID MOD BASED ON MIUI</p>
 </div>
   
 
