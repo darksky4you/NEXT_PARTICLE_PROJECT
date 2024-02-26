@@ -1,6 +1,7 @@
-<span align="center">
+<div align="center">
   <img  height="200" src="https://github.com/darksky4you/miuiscMerlinx/raw/main/logo.png"  />
-</span>
+  <h2>NEXT OS</h2>
+</div>
   
 
 <h3>BUILD CHANGELOG - PARTICLE</h3>
