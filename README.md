@@ -1,5 +1,5 @@
 
-<h6>BUILD CHANGELOG</h6>
+<h3>BUILD CHANGELOG - PARTICLE</h3>
 <pre>
   • Statusbar Icon Change Options (Wifi , Data , battery etc)
   • LockScreen Mods (Media Art , clock style , powermenu , charge animations etc)
