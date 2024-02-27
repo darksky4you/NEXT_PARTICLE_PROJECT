@@ -29,7 +29,7 @@
 <a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_screenshots.png"  /></a>
 
 <h3 align="center" >DISCLAIMER</h3>
-<p align="center"> <b>NEXT</b> Community Founded by <a href="https://t.me/Fazokhan">FAZO KHAN</a> our Kind Brother . We do our best work for our community members for experiencing best ui and performance. we respect all devs and their work , if their is any issues or misunderstanding , feel free to contact. we spread love ❤️</p>
+<p align="center"> <b>NEXT-OS</b> Community Founded by <a href="https://t.me/Fazokhan">FAZO KHAN</a> our Kind Brother . We do our best work for our community members for experiencing best ui and performance. we respect all devs and their work , if their is any issues or misunderstanding , feel free to contact. we spread love ❤️</p>
 
 
 
