@@ -26,3 +26,4 @@
 <h3>ROM ASSETS</h3>
 
 <a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_installation-steps.png"  /></a>
+<a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_screenshots.png"  /></a>
