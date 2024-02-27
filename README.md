@@ -1,5 +1,5 @@
-<div align="center">
-  <img  height="200" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/banner.png"  />
+<div align="center" >
+  <img  src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/banner.png"  />
   <p>AN ANDROID MOD BASED ON MIUI</p>
 </div>
   
