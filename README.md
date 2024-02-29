@@ -18,15 +18,17 @@
     many more ......
 </pre>
 
+<h3>ROM ASSETS AND MENTIONS</h3>
+
+<a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_installation-steps.png"  /></a>
+<a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_screenshots.png"  /></a>
+
+
 <h3>COMMUNITY</h3>
 
 <a href="https://t.me/RedmiN11Pak"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_update-channel.png"  /></a>
 <a href="https://t.me/nextosmerlinx"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_support-group.png"  /></a>
 
-<h3>ROM ASSETS AND MENTIONS</h3>
-
-<a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_installation-steps.png"  /></a>
-<a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_screenshots.png"  /></a>
 
 <h3 align="center" >DISCLAIMER</h3>
 <p align="center">" <b>NEXT-OS Community</b>, founded by our kind brother <a href="https://t.me/Fazokhan">FAZO KHAN</a>, is dedicated to providing our community members with the best user interface and performance. We deeply respect all developers and their work. If there are any issues or misunderstandings, please feel free to contact us. Let's spread love ❤️."
