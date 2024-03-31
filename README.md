@@ -27,6 +27,9 @@
   • Decrypted (Default)
     many more ......
 </pre>
+<pre>
+  Magisk Gapps Reccomended ;
+</pre>
 
 <h3>ROM ASSETS AND MENTIONS</h3>
 
