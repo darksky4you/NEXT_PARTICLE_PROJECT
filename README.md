@@ -10,6 +10,7 @@
   • Some Minor UI Changes .
   • Modded apps added .
   • Some Extra Feature Added.
+  • Removed Spoofing (Base Issues).
 </pre>
 
 
