@@ -33,6 +33,7 @@
 <a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_installation-steps.png"  /></a>
 <a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_screenshots.png"  /></a>
 <a href="https://drive.google.com/file/d/1-2z2QGb98SnVotVacQc6Fp-AOPHgjmMG/view?usp=drivesdk"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/gapps_button.png"  /></a>
+<a href="https://www.pling.com/p/2119773/"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/magisk_gapps_button.png"  /></a>
 
 
 <h3>COMMUNITY</h3>
