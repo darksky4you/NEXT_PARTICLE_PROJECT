@@ -2,7 +2,16 @@
   <img  src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/summer_banner.jpg"  />
   <p>AN ANDROID MOD BASED ON MIUI</p>
 </div>
-  
+<h3>CHANGELOG-SUMMER</h3>
+<pre>
+  • Base Chnaged to MIUI CN 14.0.0 .
+  • Added Extra Options in Clock Chip .
+  • Updated some clock layouts .
+  • Some Minor UI Changes .
+  • Modded apps added .
+  • Some Extra Feature Added.
+</pre>
+
 
 <h3>BUILD CHANGELOG - PARTICLE</h3>
 <pre>
