@@ -4,7 +4,7 @@
 </div>
 <h3>CHANGELOG-SUMMER</h3>
 <pre>
-  • Base Chnaged to MIUI CN 14.0.0 .
+  • Base Chnaged to MIUI CN 14.0.0 . Thanks to <a href="https://t.me/SiaNjirr">Iwanks</a>
   • Added Extra Options in Clock Chip .
   • Updated some clock layouts .
   • Some Minor UI Changes .
@@ -32,6 +32,7 @@
 
 <a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_installation-steps.png"  /></a>
 <a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/button_screenshots.png"  /></a>
+<a href="https://drive.google.com/file/d/1-2z2QGb98SnVotVacQc6Fp-AOPHgjmMG/view?usp=drivesdk"><img  height="35" src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/gapps_button.png"  /></a>
 
 
 <h3>COMMUNITY</h3>
