@@ -1,20 +1,15 @@
 {
     "credits": [
       {
-        "name": "🅺🅰️🆂🅷🅸⛧ #OnPaperOS",
+        "name": "🅺🅰️🆂🅷🅸",
         "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/kashi.jpg",
-        "summery": "famous person in miui community",
+        "summery": "no words for him , let me ask",
         "link": "https://t.me/kakashi1v1"
       },{
         "name": "Mod Center",
         "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/mod_center.jpg",
         "summery": "Amogus Modifications between us",
         "link": "https://t.me/kashis_cringey_stuffs"
-      },{
-        "name": "MIUISR | HyperSR",
-        "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/miuisr.jpg",
-        "summery": "pros miui modification rom project",
-        "link": "https://t.me/MIUISR"
       },{
         "name": "MIUI MIND EDITION",
         "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/miui_mind.jpg",
@@ -28,13 +23,14 @@
       },{
         "name": "IwaNk",
         "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/iwanks.jpg",
-        "summery": "Nothing Last Forever",
+        "summery": "for base and help",
         "link": "https://t.me/SiaNjirr"
-      },{
-        "name": "Kronos Mods",
-        "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/kronos.jpg",
-        "summery": "miui mod apk community",
-        "link": "https://t.me/KronosMods"
+      }
+      ,{
+        "name": "Satan HyperOS Mods",
+        "photo": "https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/credit_avater/satanmods.jpg",
+        "summery": "for some mod apps",
+        "link": "https://t.me/SatanModss"
       }
       
       
