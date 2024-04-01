@@ -10,6 +10,7 @@
   • Some Minor UI Changes .
   • Modded apps added .
   • Some Extra Feature Added.
+  • Fixed Notification Delay.
   • Removed Spoofing (Base Issues).
 </pre>
 
@@ -28,7 +29,7 @@
     many more ......
 </pre>
 <pre>
-  Magisk Gapps Reccomended ;
+  # Magisk Gapps Reccomended ;
 </pre>
 
 <h3>ROM ASSETS AND MENTIONS</h3>
