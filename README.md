@@ -2,6 +2,12 @@
   <img  src="https://raw.githubusercontent.com/darksky4you/NEXT_PARTICLE_PROJECT/main/DATABASE/assets/summer_banner.jpg"  />
   <p>AN ANDROID MOD BASED ON MIUI</p>
 </div>
+
+<h3>PROJECT STATUS</h3>
+<pre>
+  🔴 THE DEVICE HAS BEEN DROPPED BY MERLINX MAINTAINER.
+</pre>
+
 <h3>CHANGELOG-SUMMER</h3>
 <pre>
   • Base Chnaged to MIUI CN 14.0.0 . Thanks to <a href="https://t.me/SiaNjirr">Iwanks</a>
